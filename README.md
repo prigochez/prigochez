@@ -1,4 +1,4 @@
-![Priscilla Góchez Github Cover Photo](https://github.com/prigochez/prigochez/blob/main/BeGreaterThanAverage.png; height="450px")
+![Priscilla Góchez Github Cover Photo](https://github.com/prigochez/prigochez/blob/main/BeGreaterThanAverage.png)
 
 ## Hi, Pri here!
 The purpose of this readme was to store some of the projects I have worked on in University so that they don´t dissapear once I graduate, while also letting the reader know a little bit more about me! 
