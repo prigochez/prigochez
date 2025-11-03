@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, Pri here!
+The purpose of this readme was to store some of the projects I have worked on in University so that they don´t dissapear once I graduate, while also letting the reader know a little bit more about me! 
 
 <!--
 **prigochez/prigochez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
